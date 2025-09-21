@@ -1,2 +1,2 @@
 # SpringBoot-CRUD
-Spring boot using CRUD operation
+CRUD operation using Spring boot.
